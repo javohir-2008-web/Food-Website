@@ -6,6 +6,7 @@
 }
 
 
+
 html{
     scroll-behavior: smooth;
 }
@@ -464,7 +465,7 @@ section .main_btn:hover i{
 }
 
 .review .review-box{
-    width: 95%;
+    width: 70%;
     margin: 70px auto;
     display: flex;
 }
